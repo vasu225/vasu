@@ -1,0 +1,5 @@
+void main()
+{
+ s.o.print("bank code")
+ s.o.print("bank code")
+}
